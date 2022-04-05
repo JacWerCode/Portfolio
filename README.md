@@ -1,6 +1,3 @@
-# Portfolio
-Start here
-
 # Springboard Capstone Projects - Data Visualization - Machine Learning - Predictive Analytics
 [Predicting Employee Attrition](https://github.com/JacWerCode/SpringboardCapstoneProjects/tree/main/CS1_EmployeeAttrition)  
 It's important to identify which employees are at risk for attrition and more importantly, why they quit and how to retain workers. We can use data to reduce pain points to create better environments for employees, reducing administrative costs of onboarding, and freeing up time supervisors/mentors use to bring a new hire up to speed, which could be used working on projects and developing strategy.
