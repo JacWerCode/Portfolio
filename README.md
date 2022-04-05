@@ -6,6 +6,5 @@ It's important to identify which employees are at risk for attrition and more im
 Divorce is a stressful and costly process that takes a toll on individuals, families, and their friends. Barring a situation where staying married would do more harm than good, divorces are better to be avoided and a marriage mended. Ideally, we find out which attitudes towards marriage, cohabitation, family, are predictive of divorce – and that these are attitudes that can be changed
 
 # World Chase Tag Stats Dashboard - Data Visualization - Dashboarding - Statistical Aggregation
-World Chase Tag is the first and only league for competative tag.  
-[Learn more here](https://www.worldchasetag.com/about) or [watch on Youtube](https://www.youtube.com/c/WorldChaseTag)  
+World Chase Tag ([About](https://www.worldchasetag.com/about) - [Youtube](https://www.youtube.com/c/WorldChaseTag)) is the first and only league for competative tag which holds national and international competitions. Many of the athletes are parkour practitioners.  
 I created a [Dashboard using Streamlit](https://share.streamlit.io/jacwercode/wct/Dashboard.py) to generate analytics and visualizations for my favorite sport that I can share with friends and family.
