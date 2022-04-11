@@ -4,7 +4,7 @@
 World Chase Tag ([About](https://www.worldchasetag.com/about) - [Youtube](https://www.youtube.com/c/WorldChaseTag)) is the first and only league for competative tag which holds national and international competitions. Many of the athletes are parkour practitioners.  
 I created a [Dashboard using Streamlit](https://share.streamlit.io/jacwercode/wct/Dashboard.py) to generate analytics and visualizations for my favorite sport that I can share with friends and family.
 
-### Springboard Capstone Projects
+### [Springboard Capstone Projects](https://github.com/JacWerCode/SpringboardCapstoneProjects)
 #### Data Visualization - Machine Learning - Predictive Analytics
 [Predicting Employee Attrition](https://github.com/JacWerCode/SpringboardCapstoneProjects/tree/main/CS1_EmployeeAttrition)  
 It's important to identify which employees are at risk for attrition and more importantly, why they quit and how to retain workers. We can use data to reduce pain points to create better environments for employees, reducing administrative costs of onboarding, and freeing up time supervisors/mentors use to bring a new hire up to speed, which could be used working on projects and developing strategy.
