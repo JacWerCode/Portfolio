@@ -2,7 +2,7 @@
 ### [World Chase Tag Stats Dashboard](https://share.streamlit.io/jacwercode/wct/Dashboard.py)
 #### Data Visualization - Dashboarding - Statistical Aggregation
 World Chase Tag ([About](https://www.worldchasetag.com/about) - [Youtube](https://www.youtube.com/c/WorldChaseTag)) is the first and only league for competative tag which holds national and international competitions. Many of the athletes are parkour practitioners.  
-I created a [Dashboard using Streamlit](https://share.streamlit.io/jacwercode/wct/Dashboard.py) to generate analytics and visualizations for my favorite sport that I can share with friends and family.
+I created a [Dashboard using Streamlit and Plotly](https://share.streamlit.io/jacwercode/wct/Dashboard.py) to generate analytics and visualizations for my favorite sport that I can share with friends and family.
 
 ### [Springboard Capstone Projects](https://github.com/JacWerCode/SpringboardCapstoneProjects)
 #### Data Visualization - Machine Learning - Predictive Analytics
